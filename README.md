@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# Smart Contract based subscription management 
 
 This project demonstrates a basic Smart Contract that lets merchants to create payment plans and subscribers to subcribe to those plans.
 
